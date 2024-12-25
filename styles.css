@@ -1,13 +1,14 @@
 
 /* Your CSS Code here. */
-.main{
-	width: 150px;
-	height: 150px;
-	background-color: rgb(255 255 255);
-	
+main.accio#job {
+  width: 150px;
+  height: 150px;
+  background-color: #000000;
 }
-.p{
-	textcolor:white;
 
-	padding: 10px;
+/* Style for the paragraph element with class "hello-accio" */
+p.hello-accio {
+  color: #ffffff;
+  margin-left: 32px;
+  padding: 10px;
 }
